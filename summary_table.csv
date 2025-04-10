@@ -1,0 +1,6 @@
+Feature,Healthy Range,Dataset Mean
+age,<50,54.44
+trestbps,<=120,131.69
+chol,<200,246.69
+thalach,>100,149.61
+oldpeak,~0,1.04
